@@ -9,7 +9,7 @@ In this solver we use data structure that behave like a "Linked List" but having
 <br><br>
 
 
-## What do we learn from solver?
+## What do we learn?
 ### Start at Edge (2,4,6,8)
 [0, 1, 0] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[0, 0, 0] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[0, 0, 0] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[0, 0, 0] <br>
 [0, 0, 0] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1, 0, 0] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[0, 0, 1] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[0, 0, 0] <br>
