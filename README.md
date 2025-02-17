@@ -38,5 +38,7 @@ Second Player Wins Rate: 21.706% <br>
 Draws: 17.810% <br>
 
 ### Sample Space Amount
-At first i though that "Tic Tac Toe" n(S) = 9! = 362880 , but some of the event stop without filling the entire board, this is the reason why this game sample space amount is lower than 9!. Result from simulation n(S)=255168.
+At first i though that "Tic Tac Toe" n(S) = 9! = 362,880 <br> 
+but some of the event stop without filling the entire board this is the reason why this game sample space amount is lower than 9!. <br>
+Result from simulation n(S)=255,168
 
