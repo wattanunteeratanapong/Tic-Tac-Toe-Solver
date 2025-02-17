@@ -1,6 +1,6 @@
 # Tic Tac Toe Solver
 <img src="https://www.bernzomatic.com/getattachment/495f277e-5ace-487a-a82e-5decc0772c4f/DIY-Tic-Tac-Toe-Game-Board.aspx?maxsidesize=1200" width="100%" alt="Tic Tac Toe"> <br><br>
-"Tic Tac Toe" is considered to be the most classic game of all time, and this game sample space is not that much unlike chess(chess sample space is more than a total number of planet in this whole universe), this mean with household computer could easily generate all "Tic Tac Toe" sample space. With all these generated sample space, player could decide which is the next best move. <br><br>
+"Tic Tac Toe" is considered to be the most classic game of all time, and this game sample space is not that much unlike chess(chess sample space is more than a total number of planet in this whole universe), this mean with household computer could easily generate all "Tic Tac Toe" sample space. With all these generated sample space, player could decide which next move is the best move. <br><br>
 
 
 
