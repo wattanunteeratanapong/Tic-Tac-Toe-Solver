@@ -1,4 +1,6 @@
 # Tic Tac Toe Solver
+<img src="https://github.com/user-attachments/assets/3685a7cf-fcc0-4e46-a848-809acbd23b10" width="100%" alt="Tic Tac Toe"> <br><br>
+"Tic Tac Toe" is considered to be the most classic game of all time, and this game sample space is not that much unlike chess(chess sample space is more than a total number of planet in this whole universe), this mean with household computer could easily generate all "Tic Tac Toe" sample space. by generating all sample space it could decide which is the next best move.
 This repository is trying create "Tic Tac Toe" solver by to generate all the sample space, and also help player decide which is the best next move.
 
 
