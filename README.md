@@ -18,16 +18,16 @@ Result from generation n(S)=255,168
 ### Which side have more edge?
 <img src="https://github.com/user-attachments/assets/e2e9c88e-9ad8-4233-a715-4260b5db468c" height="150px" alt="Cell1"> <br>
 By default player who start first have more edge. <br>
-1st Player Wins Rate : 51.411% <br>
-2nd Player Wins Rate : 30.530% <br>
-Draws : 18.059% <br>
+1st Player Wins Rate : 51.41% <br>
+2nd Player Wins Rate : 30.53% <br>
+Draws : 18.06% <br>
 
 ### Start at Middle (5)
 <img src="https://github.com/user-attachments/assets/c29e684f-e98d-473e-96db-c5a7b8e92bb8" height="150px" alt="Cell1"> <br>
 This starting cell is the best choice for first player. <br>
-1st Player Wins Rate : 60.482% <br>
-2nd Player Wins Rate : 21.707% <br>
-Draws : 17.811% <br>
+1st Player Wins Rate : 60.48% <br>
+2nd Player Wins Rate : 21.71% <br>
+Draws : 17.81% <br>
 
 ### Start at Corner (1,3,7,9)
 <img src="https://github.com/user-attachments/assets/2201acf9-7213-489e-8d52-ff4b77dc8e7a" height="95px" alt="Cell1">
@@ -35,9 +35,9 @@ Draws : 17.811% <br>
 <img src="https://github.com/user-attachments/assets/68236beb-533e-4b72-bfe0-e8502bb982a7" height="95px" alt="Cell7">
 <img src="https://github.com/user-attachments/assets/8c623a47-6786-4ddc-9367-862f2024247f" height="95px" alt="Cell9"> <br>
 These starting cell are second best choice for first player. <br>
-1st Player Wins Rate : 52.834% <br>
-2nd Player Wins Rate : 28.473% <br>
-Draws Rate : 18.693% <br>
+1st Player Wins Rate : 52.83% <br>
+2nd Player Wins Rate : 28.47% <br>
+Draws Rate : 18.69% <br>
 
 ### Start at Edge (2,4,6,8)
 <img src="https://github.com/user-attachments/assets/50be2859-65fb-4d92-b2d8-a06258a91cee" height="95px" alt="Cell2">
@@ -45,9 +45,9 @@ Draws Rate : 18.693% <br>
 <img src="https://github.com/user-attachments/assets/17376be0-e70c-4a7f-915d-f4830095d170" height="95px" alt="Cell6">
 <img src="https://github.com/user-attachments/assets/0627b095-96cb-44e6-b544-de2cf8d93af9" height="95px" alt="Cell8"> <br>
 These starting cell are the worst choice for first player. <br> 
-1st Player Win Rate : 48.094% <br>
-2nd Player Win Rate : 34.388% <br>
-Draw Rate : 17.518% <br>
+1st Player Win Rate : 48.09% <br>
+2nd Player Win Rate : 34.39% <br>
+Draw Rate : 17.52% <br>
 
 ### What to do when first player start at the middle?
 If first player start at the middle, the best option for second player is to fill the corner cell(1,3,7,9). <br>
