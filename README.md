@@ -43,9 +43,10 @@ Second Player Wins Rate: 21.706% <br>
 Draws: 17.810% <br>
 
 ### What to do when first player start at the middle?
+If first player start at the middle, the best option for second player is to fill the corner cell(1,3,7,9). <br>
 <img src="https://github.com/user-attachments/assets/a6adedc3-9d57-4dbe-8b6f-c8060efe698b" height="95px" alt="Cell1"> 
 <img src="https://github.com/user-attachments/assets/ed3192c9-beda-46f3-ae99-cc331bddaf7c" height="95px" alt="Cell1"> <br>
-If first player start at the middle, the best option for second player is to fill the corner cell(1,3,7,9). <br>
+(better option)
 
 
 
