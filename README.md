@@ -69,6 +69,6 @@ If first player start at the middle, the best option for second player is to fil
 ### What will happen if both side perfectly execute best move?
 Result is a draw. <br>
 Cell filling order of perfectly execute : 5, 1, 2, 8, 7, 3, 4, 6, 9 <br><br>
-<img src="https://github.com/user-attachments/assets/bd087f1d-f4f6-4fc1-99d1-b4de005ec81a" height="400px" alt="Cell1"> <br>
+<img src="https://github.com/user-attachments/assets/bd087f1d-f4f6-4fc1-99d1-b4de005ec81a" height="380px" alt="Cell1"> <br>
 
 
