@@ -14,9 +14,10 @@ but it might take a bit of time to generate all sample space by recursive.
 
 ## What do we learn?
 ### Sample Space Amount
-At first i though that "Tic Tac Toe" n(S) = 9! = 362,880 <br> 
-but some of the event stop without filling the entire board, this is the reason why this game sample space amount is lower than 9!. <br>
-Result from generation n(S)=255,168
+At first i though that "Tic Tac Toe" total sample space would be 9!(362,880). <br>
+But some of the event stop without filling the entire board. <br>
+This is the reason why this game sample space amount is lower than 9!. <br>
+( Result from generation n(S)=255,168 )
 
 ### Which side have more edge?
 <img src="https://github.com/user-attachments/assets/e2e9c88e-9ad8-4233-a715-4260b5db468c" height="150px" alt="Cell1"> <br>
