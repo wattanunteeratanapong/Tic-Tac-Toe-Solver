@@ -57,10 +57,14 @@ If first player start at the middle, the best option for second player is to fil
 <img src="https://github.com/user-attachments/assets/01422a6f-da5e-4b44-845e-6e4588bca9b6" width="95px" height="95px" alt="Cell57"> 
 <img src="https://github.com/user-attachments/assets/cc21fdbb-23a2-4632-8563-9a7ffc765392" width="95px" height="95px" alt="Cell59"> <br>
 (worst option) <br>
-<img src="https://github.com/user-attachments/assets/12ea6981-687b-40f6-8751-fc5d12dc9be8" width="95px" height="95px" alt="Cell51"> 
-<img src="https://github.com/user-attachments/assets/515350d5-fc24-4fec-ab27-aaef21a170d8" width="95px" height="95px" alt="Cell53"> 
-<img src="https://github.com/user-attachments/assets/76585f59-c7fa-45a6-90ac-f954b381de04" width="95px" height="95px" alt="Cell57"> 
-<img src="https://github.com/user-attachments/assets/327b35c3-a152-40cb-9743-96b5730c3a0c" width="95px" height="95px" alt="Cell59"> <br>
+<img src="https://github.com/user-attachments/assets/12ea6981-687b-40f6-8751-fc5d12dc9be8" width="95px" height="95px" alt="Cell52"> 
+<img src="https://github.com/user-attachments/assets/515350d5-fc24-4fec-ab27-aaef21a170d8" width="95px" height="95px" alt="Cell54"> 
+<img src="https://github.com/user-attachments/assets/76585f59-c7fa-45a6-90ac-f954b381de04" width="95px" height="95px" alt="Cell56"> 
+<img src="https://github.com/user-attachments/assets/327b35c3-a152-40cb-9743-96b5730c3a0c" width="95px" height="95px" alt="Cell57"> <br>
 
+### What will happen if both side perfectly execute best move?
+Result is a draw. <br>
+Cell filling order of perfectly execute : 5, 1, 2, 8, 7, 3, 4, 6, 9 <br><br>
+<img src="https://github.com/user-attachments/assets/bd087f1d-f4f6-4fc1-99d1-b4de005ec81a" height="400px" alt="Cell1"> <br>
 
 
