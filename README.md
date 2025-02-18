@@ -1,5 +1,5 @@
 # Tic Tac Toe Solver
-<img src="https://github.com/user-attachments/assets/346d2f9c-9482-4aba-a7ff-a6cf021073f6" width="100%" alt="Tic Tac Toe"> <br><br>
+<img src="https://github.com/user-attachments/assets/bd087f1d-f4f6-4fc1-99d1-b4de005ec81a" width="100%" alt="Tic Tac Toe"> <br><br>
 "Tic Tac Toe" is considered to be the most classic game of all time, and this game sample space is not that much unlike chess (chess sample space is more than a total number of planet in this whole universe), this mean with household computer could easily generate all "Tic Tac Toe" sample space. With all these generated sample space, player could decide which next moves is the best move. <br><br>
 
 
