@@ -8,7 +8,7 @@
 <img src="https://github.com/user-attachments/assets/84c2573c-a402-46da-901e-9e8de75ed45b" width="100%" alt="Tic Tac Toe"> <br>
 In this solver i implement by using data structure that behave like a "Linked List" but having 9 branch to store the generate event. 
 Implementing like this will make it fast to search, because it didn't have to iterate through and easier to implement than list. 
-but it might take a bit of time to generate all sample space by recursive. 
+but it might take a bit of a time to generate all sample space by recursive. 
 <br><br>
 
 
