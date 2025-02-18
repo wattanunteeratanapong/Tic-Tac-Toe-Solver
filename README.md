@@ -5,7 +5,8 @@
 
 
 ## Algorithm Behind
-In this solver we use data structure that behave like a "Linked List" but having 9 branch.
+<img src="https://github.com/user-attachments/assets/84c2573c-a402-46da-901e-9e8de75ed45b" width="100%" alt="Tic Tac Toe"> <br>
+In this solver i implement by using data structure that behave like a "Linked List" but having 9 branch.
 <br><br>
 
 
