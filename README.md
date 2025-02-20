@@ -9,7 +9,7 @@
 In this solver i implement by using data structure that behave like a "Linked List" but having 9 branch to store the generate event. 
 Implementing like this will make it fast to search, because it didn't have to iterate through and easier to implement than list. 
 but it might take a bit of a time to generate all sample space by recursive. <br><br>
-I also count win amount, lose amount, draw amount, of that root node in every child node, this is similar to a minimax algorithm, but this is a better version of minimax where depth of this version is till the end of the game.
+I also count win amount, lose amount, draw amount, of that root node in every child node, this is similar to a minimax algorithm, but this is a better version of minimax, where depth of this version is till the end of the game.
 <br><br>
 
 
