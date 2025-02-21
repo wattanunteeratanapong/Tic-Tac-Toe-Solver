@@ -31,7 +31,7 @@ Draws Rate : 18.06% <br>
 
 ### Start at Middle (5)
 <img src="https://github.com/user-attachments/assets/c29e684f-e98d-473e-96db-c5a7b8e92bb8" height="190px" alt="Cell1"> <br>
-This starting cell is the best choice for first player. <br>
+Best choice for the first player. <br>
 1st Player Wins Rate : 60.48% <br>
 2nd Player Wins Rate : 21.71% <br>
 Draws Rate : 17.81% <br>
@@ -39,7 +39,7 @@ Draws Rate : 17.81% <br>
 
 ### Start at Corner (1,3,7,9)
 <img src="https://github.com/user-attachments/assets/2201acf9-7213-489e-8d52-ff4b77dc8e7a" height="190px" alt="Cell1"> <br>
-These starting cell are second best choice for first player. <br>
+Second best choice for the first player. <br>
 1st Player Wins Rate : 52.83% <br>
 2nd Player Wins Rate : 28.47% <br>
 Draws Rate : 18.69% <br>
@@ -47,22 +47,22 @@ Draws Rate : 18.69% <br>
 
 ### Start at Edge (2,4,6,8)
 <img src="https://github.com/user-attachments/assets/50be2859-65fb-4d92-b2d8-a06258a91cee" height="190px" alt="Cell2"> <br>
-These starting cell are the worst choice for first player. <br> 
+Worst choice for the first player. <br> 
 1st Player Win Rate : 48.09% <br>
 2nd Player Win Rate : 34.39% <br>
 Draw Rate : 17.52% <br>
 <br>
 
 ### What to do when first player start at the middle?
-If first player start at the middle, the best option for second player is to fill the corner cell(1,3,7,9). <br>
+The best option for second player is to fill the corner cell(1,3,7,9). <br><br>
 <img src="https://github.com/user-attachments/assets/63e1c053-227a-4598-bfc5-f5b27a47c5ad" width="190px" height="190px" alt="Cell51"> 
 <img src="https://github.com/user-attachments/assets/12ea6981-687b-40f6-8751-fc5d12dc9be8" width="190px" height="190px" alt="Cell52"> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(best option)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (worst option)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(best option)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (worst option)<br><br>
 <br>
 
 ### What will happen if both side perfectly execute best move?
-Result is a draw. <br>
-Cell filling order of perfectly execute : 5, 1, 2, 8, 7, 3, 4, 6, 9 <br><br>
+Resulting a draw. <br>
+(Order of perfectly execute : 5, 1, 2, 8, 7, 3, 4, 6, 9) <br><br>
 <img src="https://github.com/user-attachments/assets/bd087f1d-f4f6-4fc1-99d1-b4de005ec81a" height="380px" alt="Cell1"> <br>
 <br>
 
